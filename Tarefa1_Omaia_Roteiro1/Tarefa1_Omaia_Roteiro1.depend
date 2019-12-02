@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1574704300 source:c:\users\pedro\desktop\programas++\tarefa1_omaia_roteiro1\src\data.cpp
+	<iostream>
+	<stdlib.h>
+	"Data.h"
+
+1574865405 c:\users\pedro\desktop\programas++\tarefa1_omaia_roteiro1\include\data.h
+
+1574775077 source:c:\users\pedro\desktop\programas++\tarefa1_omaia_roteiro1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<locale>
+	"Data.h"
+
