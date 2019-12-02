@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1575077233 source:c:\users\pedro\desktop\programas++\tarefa5_omaia_roteiro1\main.cpp
+	<iostream>
+	<locale>
+	<stdlib.h>
+	<stdio.h>
+	"Despesa.h"
+	"ControleDeGastos.h"
+
+1575034182 source:c:\users\pedro\desktop\programas++\tarefa5_omaia_roteiro1\src\controledegastos.cpp
+	"ControleDeGastos.h"
+
+1575043417 c:\users\pedro\desktop\programas++\tarefa5_omaia_roteiro1\include\controledegastos.h
+	<string>
+	"Despesa.h"
+
+1574879268 source:c:\users\pedro\desktop\programas++\tarefa5_omaia_roteiro1\src\despesa.cpp
+	<iostream>
+	"Despesa.h"
+
+1574878166 c:\users\pedro\desktop\programas++\tarefa5_omaia_roteiro1\include\despesa.h
+	<string>
+

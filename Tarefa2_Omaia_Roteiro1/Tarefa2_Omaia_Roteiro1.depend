@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1575051944 source:c:\users\pedro\desktop\programas++\tarefa2_omaia_roteiro1\main.cpp
+	<iostream>
+	<locale>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	"Invoice.h"
+
+1575052681 c:\users\pedro\desktop\programas++\tarefa2_omaia_roteiro1\include\invoice.h
+	<stdlib.h>
+	<string>
+
+1575052720 source:c:\users\pedro\desktop\programas++\tarefa2_omaia_roteiro1\src\invoice.cpp
+	<iostream>
+	<stdlib.h>
+	"Invoice.h"
+

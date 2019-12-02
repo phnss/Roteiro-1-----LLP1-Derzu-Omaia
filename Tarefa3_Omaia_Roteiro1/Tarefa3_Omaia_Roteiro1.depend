@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1575065174 source:c:\users\pedro\desktop\programas++\tarefa3_omaia_roteiro1\src\empregado.cpp
+	"Empregado.h"
+
+1575065166 c:\users\pedro\desktop\programas++\tarefa3_omaia_roteiro1\include\empregado.h
+	<string>
+
+1575069171 source:c:\users\pedro\desktop\programas++\tarefa3_omaia_roteiro1\main.cpp
+	<iostream>
+	<locale>
+	"Empregado.h"
+

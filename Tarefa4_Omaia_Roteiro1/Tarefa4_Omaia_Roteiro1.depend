@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1575077181 source:c:\users\pedro\desktop\programas++\tarefa4_omaia_roteiro1\main.cpp
+	<iostream>
+	<string>
+	<locale>
+	<stdlib.h>
+	"Pessoa.h"
+
+1575076761 source:c:\users\pedro\desktop\programas++\tarefa4_omaia_roteiro1\src\pessoa.cpp
+	<string>
+	"Pessoa.h"
+
+1575076871 c:\users\pedro\desktop\programas++\tarefa4_omaia_roteiro1\include\pessoa.h
+	<string>
+

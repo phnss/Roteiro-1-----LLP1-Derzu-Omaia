@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1575308603 source:c:\users\pedro\desktop\programas++\tarefa6_omaia_roteiro1\main.cpp
+	<iostream>
+	<locale>
+	"Pagamento.h"
+	"ControleDePagamento.h"
+
+1575307636 c:\users\pedro\desktop\programas++\tarefa6_omaia_roteiro1\include\pagamento.h
+	<string>
+
+1575307636 c:\users\pedro\desktop\programas++\tarefa6_omaia_roteiro1\include\controledepagamento.h
+	<string>
+	"Pagamento.h"
+
+1575309012 source:c:\users\pedro\desktop\programas++\tarefa6_omaia_roteiro1\src\controledepagamento.cpp
+	<string>
+	<iostream>
+	"ControleDePagamento.h"
+
+1575307636 source:c:\users\pedro\desktop\programas++\tarefa6_omaia_roteiro1\src\pagamento.cpp
+	"Pagamento.h"
+
